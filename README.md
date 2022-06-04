@@ -14,10 +14,16 @@ Base on <b>Thailand.</b>
 My website is on working process...<br />
 
 
-<div style="display:flex, justifyContent:center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawinOfficial&layout=compact)](https://github.com/KawinOfficial/github-readme-stats)
-![KawinOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawinOfficial&show_icons=true)
-</div>
+<a href="https://github.com/KawinOfficial/github-readme-stats">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawinOfficial&layout=compact" />
+</a>
+
+<a href="https://github.com/KawinOfficial">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KawinOfficial&show_icons=true" />
+</a>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawinOfficial&layout=compact)](https://github.com/KawinOfficial/github-readme-stats)
+![KawinOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawinOfficial&show_icons=true) -->
 
 
 ## 💼 Skills

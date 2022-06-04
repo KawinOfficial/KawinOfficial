@@ -1,5 +1,5 @@
 # Kawin Srisomphan
-[![Star Badge](https://img.shields.io/github/stars/KawinOfficial)]
+![Star Badge](https://img.shields.io/github/stars/KawinOfficial)
 [![Facebooks Badge](https://img.shields.io/badge/Facebook-Profile-blue)](http://facebook.com/kawinsrisomphan)
 
 

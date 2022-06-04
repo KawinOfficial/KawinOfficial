@@ -5,21 +5,27 @@
 
 <!-- This is website about myself. Thanks for coming >&lt; -->
 
-i'm a <b>Front-end developer</b> and <b>UX/UI Design.</b><br />
-Base on <b>Thailand.</b><br/>
+i'm a <b>Front-end developer</b> and <b>UX/UI Design.</b>
+<br />
+Base on <b>Thailand.</b>
+
+<br/>
 
 My website is on working process...<br />
 
 
 
-<a href="https://github.com/KawinOfficial">
+<!-- <a href="https://github.com/KawinOfficial">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawinOfficial&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
 
-<a href="https://github.com/KawinOfficial">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawinOfficial&layout=compact)](https://github.com/KawinOfficial/github-readme-stats)
+
+<!-- <a href="https://github.com/KawinOfficial">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KawinOfficial&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
-</a>
+</a> -->
 
+![KawinOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawinOfficial&show_icons=true&theme=radical)
 
 ## 💼 Skills
 

@@ -6,5 +6,5 @@ Base on <b>Thailand.</b><br/>
 
 My website is on working process...<br />
 
-[![Facebooks Badge](https://img.shields.io/badge/Facebook-Profile-blue)](http://facebook.com/kawinsrisomphan)
-[![Star Badge](https://img.shields.io/github/stars/KawinOfficial)
+[Facebooks Badge](https://img.shields.io/badge/Facebook-Profile-blue)](http://facebook.com/kawinsrisomphan)
+[Star Badge](https://img.shields.io/github/stars/KawinOfficial)

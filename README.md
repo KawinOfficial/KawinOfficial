@@ -47,7 +47,7 @@ My website is on working process...<br />
 ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=Blender&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeLR-informational?style=flat&logo=Lightroom&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Lightroom-informational?style=flat&logo=Adobe-Lightroom&logoColor=white&color=4AB197)
 
 
 
